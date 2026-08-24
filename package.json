@@ -9,7 +9,7 @@
      "restart": "pm2 restart DARK-KNIGHT"
     },
    "dependencies": {
-    "@whiskeysockets/baileys": "npm:@mataram/wa",          
+    "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-baileys",          
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
@@ -20,6 +20,6 @@
     "megajs": "1.1.7",
     "pm2": "^5.4.0",
     "async-mutex": "0.4.1",
-    "jimp": "^0.16.1"
+    "jimp": "^1.6.1"
    }
 }
